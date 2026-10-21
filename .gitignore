@@ -1,0 +1,4 @@
+# build tools, downloaded by fetch-tools.sh
+/tools/
+# Wahoo's app - never commit
+*.apk
